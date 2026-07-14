@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+#ansible_password: DevOps321
+MONGODB_HOST: mongodb.snlp.shop
+REDIS_HOST: redis.snlp.shop
+MYSQL_HOST: mysql.snlp.shop 
+RABBITMQ_HOST: rabbitmq.snlp.shop 
+CATALOGUE_HOST: catalogue.snlp.shop
+USER_HOST: user.snlp.shop
+CART_HOST: cart.snlp.shop
+SHIPPING_HOST: shipping.snlp.shop
+PAYMENT_HOST: payment.snlp.shop
